@@ -1,0 +1,1 @@
+set -x GLOBAL_NODE_MODULES "$HOME/.config/yarn/global/node_modules"

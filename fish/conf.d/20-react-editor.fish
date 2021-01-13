@@ -1,0 +1,1 @@
+set -x REACT_EDITOR "code-insiders"
